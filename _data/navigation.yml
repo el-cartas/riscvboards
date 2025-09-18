@@ -1,0 +1,11 @@
+main:
+  #- title: "Reviews"
+  #  url: /reviews/
+  - title: "Posts"
+    url: /posts/
+  #- title: "Categories"
+  #  url: /posts/
+  - title: "Boards"
+    url: /boards/
+  - title: "About"
+    url: /about/
